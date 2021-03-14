@@ -19,3 +19,6 @@ Then, using uvicorn as a server to running fastapi
 ```bash
 pip install uvicorn
 ```
+## Acknowledgments
+
+* This is the original source for my refrence to build this simple API: https://dev.to/supanthapaul/getting-started-with-fastapi-create-apis-quickly-using-python-2a9f
